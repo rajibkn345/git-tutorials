@@ -4,4 +4,8 @@ now need to think what next to do
 set the upstream 
 but want to push specific branch again and again
 now I am adding something
+now I undestand the remote files change addition by pushing
 
+now I want to go previous commit
+
+100000000
