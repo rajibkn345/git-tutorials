@@ -3,3 +3,6 @@ one is okay
 now need to think what next to do 
 set the upstream 
 but want to push specific branch again and again
+now I am switching to dev branch 
+try to push 
+let see what happen
